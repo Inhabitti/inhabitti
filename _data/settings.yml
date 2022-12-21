@@ -14,7 +14,7 @@ projects:
 - {name: 'QA Projects',   url: 'QA-Projects'}
 - {name: 'Engineering',   url: 'Engineering'}
 - {name: 'Drawing', url: 'Drawing'}
-- {name: 'Other Files',  url: 'Other'}
+- {name: 'Other Files',  url: 'Other-Files'}
 
 #-------------------------------
 # Contact Section
