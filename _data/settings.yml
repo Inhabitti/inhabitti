@@ -3,15 +3,15 @@
 
 menu:
 - {name: 'Projects', url: ''}
-- {name: 'Blog',     url: 'blog'}
-- {name: 'About',    url: 'about'}
+- {name: 'Introducing',     url: 'blog'}
+- {name: 'About-Me',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
 
 projects:
-- {name: 'QA Products',   url: 'proj-1'}
+- {name: 'QA Projects',   url: 'proj-1'}
 - {name: 'Engineering',   url: 'proj-2'}
 - {name: 'Drawing', url: 'proj-3'}
 - {name: 'Other Files',  url: 'proj-4'}
@@ -20,8 +20,6 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter',   link: ''}
-- {icon: 'instagram', link: ''}
 - {icon: 'github',    link: 'https://github.com/Inhabitti'}
 - {icon: 'linkedin',  link: 'https://www.linkedin.com/in/%EB%B3%B4%EC%9D%B8-%EC%9D%B4-502771251/'}
 
