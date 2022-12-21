@@ -18,8 +18,8 @@ This is a piece of memory what I have done. Enjoy :)
 
 ## I am..
 
-Born in : 2002-01-28
-Live in : Seoul, Republic of Korea
+Born in : 2002-01-28  
+Live in : Seoul, Republic of Korea  
 Education : ST' Dominic's priory School(High School), 
 
 
