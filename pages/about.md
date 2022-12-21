@@ -8,4 +8,4 @@ permalink: /about
 
 I am interest about Software Engineering, QA and Drawing. This is a piece of memory what I have done. Enjoy :)
 
-![Hii :)](assets/img/projects/other/1.jpg)
+![Hii :)](assets/img/projects/other/1.jpg){: width="100%" height="100%"}
