@@ -22,4 +22,4 @@ TC, 게임분석서, QA 프로세스 등의 포트폴리오가 업로드 됩니�
   
 ## 3. 기타  
 ### 개발용 툴박스 시안  
-![툴박스 시안](assets/img/projects/QA-Projects/toolbox.png?raw=true)
+![툴박스 시안](/assets/img/projects/QA-Projects/toolbox.png?raw=true)
