@@ -25,11 +25,11 @@ This is a piece of memory what I have done. Enjoy :)
 ## What can I do..
 
 I have these skills :  
-\\\
-**Programming** : html, python, C, C+
-**Quality Assurance** : Jira, Confluence, SVN, Jenkins, Github, Notion, 
-**Also have** : Agile Scrum Method, EXCEL, PPT,  
-\\\
+
+> **Programming** : html, python, C, C+
+> **Quality Assurance** : Jira, Confluence, SVN, Jenkins, Github, Notion, 
+> **Also have** : Agile Scrum Method, EXCEL, PPT,  
+
 
 
 
