@@ -9,11 +9,10 @@ permalink: /about
 
 ![Hii :)](assets/img/projects/other/1.jpg){: width="150%" height="150%"}
 
-### BottomLine
+#### BottomLine
 
-I am interest about Software Engineering, QA and Drawing. 
-
-This is a piece of memory what I have done. Enjoy :)
+I am interest about Software Engineering, QA and Drawing.  
+This is a piece of memory what I have done. Enjoy :)  
 
 
 ## I am..
