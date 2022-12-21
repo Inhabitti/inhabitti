@@ -15,7 +15,6 @@ projects:
 - {name: 'Engineering',   url: 'proj-2'}
 - {name: 'Drawing', url: 'proj-3'}
 - {name: 'Other Files',  url: 'proj-4'}
-- {name: '',  url: 'proj-5'}
 
 #-------------------------------
 # Contact Section
@@ -25,7 +24,6 @@ social:
 - {icon: 'instagram', link: ''}
 - {icon: 'github',    link: 'https://github.com/Inhabitti'}
 - {icon: 'linkedin',  link: 'https://www.linkedin.com/in/%EB%B3%B4%EC%9D%B8-%EC%9D%B4-502771251/'}
-- {icon: 'envelope',  link: ''}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
