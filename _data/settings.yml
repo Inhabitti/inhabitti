@@ -11,10 +11,10 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'QA Projects',   url: 'proj-1'}
-- {name: 'Engineering',   url: 'proj-2'}
-- {name: 'Drawing', url: 'proj-3'}
-- {name: 'Other Files',  url: 'proj-4'}
+- {name: 'QA Projects',   url: 'QA-Projects'}
+- {name: 'Engineering',   url: 'Engineering'}
+- {name: 'Drawing', url: 'Drawing'}
+- {name: 'Other Files',  url: 'Other'}
 
 #-------------------------------
 # Contact Section
