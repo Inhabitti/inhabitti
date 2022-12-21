@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "portfolio-jekyll-theme"
+  spec.name          = "Portfolio Space"
   spec.version       = "2.0.0"
-  spec.authors       = ["Paul Le"]
-  spec.email         = ["hello@paulle.ca"]
+  spec.authors       = ["Boin Olivia Lee"]
+  spec.email         = ["teiru754@gmail.com"]
 
-  spec.summary       = "A minimalist Jekyll theme for building a personal portfolio site powered by Jekyll and GitHub Pages"
-  spec.homepage      = "https://github.com/LeNPaul/portfolio-jekyll-theme"
+  spec.summary       = "This is Who I Am. Please have a fun and expect me more!"
+  spec.homepage      = "https://github.com/Inhabitti"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README|CHANGELOG)!i) }
