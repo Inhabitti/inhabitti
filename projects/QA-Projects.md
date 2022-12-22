@@ -19,11 +19,11 @@ TC, 게임분석서, QA 프로세스 등의 포트폴리오가 업로드 됩니�
 ### 게임 설치 플로우  
 ![게임 설치 TC](/assets/img/projects/QA-Projects/launcherTC.png?raw=true)  
 ### 그랑사가 포럼 검수  
-<figure class="third">
-    <img src="">
-    <img src="">
-    <img src="">
-figure>  
+<figure class="thrid">
+  <a href="link"><img src="/assets/img/projects/QA-Projects/forum-11.png?raw=true"></a>
+  <a href="link"><img src="/assets/img/projects/QA-Projects/forum-22.png?raw=true"></a>
+  <a href="link"><img src="/assets/img/projects/QA-Projects/forum-33.png?raw=true"></a> 
+</figure>
   
 ## 2. 게임분석서  
 
